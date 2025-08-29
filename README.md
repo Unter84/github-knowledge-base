@@ -19,6 +19,10 @@ It contains SOPs, automation guides, and tips for using GitHub effectively — f
 - [Creating a New Repository](SOPs/SOP-Create-Repo.md) *(coming soon)*  
 
 ---
+<!-- AUTO-INDEX:START -->
+
+<!-- AUTO-INDEX:END -->
+
 
 ## 🤝 Contributions
 This repo is mainly for personal reference, but others are welcome to suggest improvements.  
