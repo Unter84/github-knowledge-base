@@ -155,7 +155,7 @@ def main():
     return 0 if changed else 0
 
 if __name__ == "__main__":
-    sys.exit(main())
+    sys.exit(main())```
 
 	4.	Click Commit new file.
 
